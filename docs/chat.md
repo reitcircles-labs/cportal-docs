@@ -28,6 +28,12 @@ To chat with other users on the portal, click on the **New Channel** button at t
 
 ![chat sup](/img/chat/new_chat.png)
 
+**Note:**
+> You can also access the chat by clicking on the dropdown menu in the My Profile section and then selecting Inbox Messages.
+
+![chat sup](/img/chat/other_chat.png)
+
+
 ### Step 4: Receive and Respond to Messages
 
 You will receive notifications for new messages in the chat window. Click on the notification to read and respond to the message.
