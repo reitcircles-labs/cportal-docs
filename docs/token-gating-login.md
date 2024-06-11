@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Login with Token Gating
 ---
 
@@ -11,6 +11,12 @@ This is a step-by-step guide on how to login and use the [ReitCircles](https://r
 Visit [ReitCircles Portal](https://devportal.reitcircles.com/#/login), agree to the terms and privacy policy, then use either your [Nami](https://www.namiwallet.io) or [Eternl](https://eternl.io) wallet to register.
 
 ![ReitCircles Portal](/img/login/portal-begin.png)
+
+---
+
+> **New to Crypto?** Watch this [video](https://youtu.be/w-HDzwS52J0?si=cRZeLbbXbVdzk29k) to learn about Cryptocurrency wallets and this on how to [create](https://youtu.be/t7cyzfknu3w?si=zrKKS26gwAnn9Mcn) one.
+
+---
 
 ### Step 2: Registering with Eternl Wallet
 
