@@ -6,7 +6,6 @@ title: NFT Minting
 
 Minting your real estate asset as an NFT on the ReitCircles portal is the final step after your documents have been verified. Here is a step-by-step guide to minting your asset as an NFT.
 
-## Steps to Mint an NFT
 
 ### Step 1: Verification Approval
 

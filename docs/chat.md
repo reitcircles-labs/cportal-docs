@@ -7,7 +7,7 @@ title: Communication via the Chat
 The ReitCircles portal provides a secure chat feature to facilitate communication between users and reviewers. This ensures smooth and efficient interactions during the asset verification process.
 
 
-### Step 1: Access the Chat
+### Access the Chat
 
 Click on the **messenger** icon in the top right of the project's dashboard in the ReitCircles portal. 
 
@@ -15,14 +15,14 @@ Click on the **messenger** icon in the top right of the project's dashboard in t
 ![chat icon](/img/chat/chat_icon.png)
 
 
-### Step 2: Chat with the Support team
+### Chat with the Support team
 
 Then click on the **support channel** to chat with the ReitCircles support team if you want to inquire about the review process or need other information about the portal.
 
 
 ![chat sup](/img/chat/sup_chan.png)
 
-### Step 3: Chat with other Users
+### Chat with other Users
 
 To chat with other users on the portal, click on the **New Channel** button at the bottom. Then, enter the target stake address of the user and click **Submit.**
 
@@ -34,7 +34,7 @@ To chat with other users on the portal, click on the **New Channel** button at t
 ![chat sup](/img/chat/other_chat.png)
 
 
-### Step 4: Receive and Respond to Messages
+### Receive and Respond to Messages
 
 You will receive notifications for new messages in the chat window. Click on the notification to read and respond to the message.
 

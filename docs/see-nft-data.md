@@ -1,13 +1,9 @@
 ---
 sidebar_position: 5
-title: Seeing the NFT Data
+title: Accessing the NFT Data
 ---
 
-# Seeing the NFT Data
-
 Once your real estate asset has been successfully minted as an NFT on the ReitCircles portal, you can view detailed data about your NFT directly from your profile. This section will guide you through the steps to access and interpret your NFT data.
-
-## Accessing Your NFT Data
 
 ### Step 1: Navigate to Your Profile
 
