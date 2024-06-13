@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Accessing the NFT Data
 ---
 
-Once your real estate asset has been successfully minted as an NFT on the ReitCircles portal, you can view detailed data about your NFT directly from your profile. This section will guide you through the steps to access and interpret your NFT data.
+The NFT minting process involves converting realestate assets into NFTs and listing them on the ReitCircles marketplace. To mint your assets as NFTs on the portal, you need to ensure that all your documents have been submitted for review and have been reviewed.
 
 ### Step 1: Navigate to Your Profile
 
