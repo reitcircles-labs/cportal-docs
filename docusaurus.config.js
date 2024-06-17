@@ -46,6 +46,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -76,8 +77,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'User Guides',
           },
+          {
+            to: '/api/intro',
+            label: 'API Reference',
+            position: 'left',
+          },
+      
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/reitcircles-labs',
@@ -93,9 +100,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/token-gating-login.md',
+                label: 'User Guides',
+                to: '/docs/token-gating-login',
               },
+              {
+          label: 'API Reference',
+          to: '/api/intro',
+        },
             ],
           },
           {
