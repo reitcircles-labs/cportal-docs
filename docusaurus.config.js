@@ -79,8 +79,9 @@ const config = {
             position: 'left',
             label: 'User Guides',
           },
+
           {
-            to: '/api/intro',
+            to: 'docs/API Reference/intro',
             label: 'API Reference',
             position: 'left',
           },
@@ -104,9 +105,10 @@ const config = {
                 to: '/docs/token-gating-login',
               },
               {
-          label: 'API Reference',
-          to: '/api/intro',
-        },
+                label: 'API Reference',
+                to: 'docs/API Reference/intro',
+              },
+
             ],
           },
           {

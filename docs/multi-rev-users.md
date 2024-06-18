@@ -5,8 +5,6 @@ title: Multiple-Review System
 
 The Multiple-Review Oracle System ensures that each real estate asset uploaded to the ReitCircles portal is reviewed and confirmed by two reviewers before proceeding to the NFT minting process. This system upholds transparency and verifiability, aligning with the blockchain principle of transparency.
 
-## What You Need to Know
-
 ### Uploading Documents
 
 After uploading your asset documents, they are assigned to two reviewers. The status of your documents will be marked as **Pending** during the review process.
