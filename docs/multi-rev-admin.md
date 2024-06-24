@@ -7,6 +7,12 @@ The Multiple-Review Oracle System ensures transparency and verifiability for eac
 
 This is the review process for Admins.
 
+Review system:
+1. Have the review role assigned 
+2. Click on the "Asset Audit Overview" and enter the asset ID of the asset's document to be reviewed.
+3. The system will automatically assign an asset ID to a reviewer, which you will receive. 
+4. The asset IDs are sent to the reviewers when the documents are uploaded
+
 ### Access the Review Section
 
 Sign in to the ReitCircles portal, and navigate to the **Admin Section** Then click on the **Review** button in the left menu to access the review section.
@@ -14,6 +20,11 @@ Sign in to the ReitCircles portal, and navigate to the **Admin Section** Then cl
 ### Enter Asset ID
 
 Enter the Asset ID of the document you need to review. You will then see the documents that need to be reviewed.
+
+There is an Asset ID and Review Index
+
+review index it mean the log system tracking previos of user submited document to review
+in the case one asset submit review with many of time
 
 ### Review Documents
 

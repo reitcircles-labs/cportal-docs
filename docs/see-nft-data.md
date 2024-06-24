@@ -17,6 +17,10 @@ On your profile page, you will see a list of your assets. Click on the asset tha
 
 Clicking on an asset will take you to its detailed page. Here, you will find various sections providing comprehensive information about the NFT.
 
+After minting the NFT, you can view the NFT data on Cardano Scan, which takes some minutes to be uploaded.
+
+![cardano scan](/img/nft/nft_data.png)
+
 ## Understanding the NFT Data
 
 ### Asset Information

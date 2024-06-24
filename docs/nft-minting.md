@@ -11,9 +11,15 @@ The NFT minting process involves converting realestate assets into NFTs and list
 
 Once your asset documents are reviewed and approved by the verification team, you will receive a notification on the portal.
 
+Use the correct address for the asset, the portal uses Google Map to verify.
+
+![document in review](/img/mint/doc_revv.png)
+
 ### Initiate Minting
 
 Navigate to the asset details page from your dashboard. Click on the **Mint NFT** button to start the minting process.
+
+![mint asset](/img/mint/nft_mint.png)
 
 ### Confirm Transaction
 
