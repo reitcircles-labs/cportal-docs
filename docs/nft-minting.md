@@ -3,34 +3,68 @@ sidebar_position: 4
 title: NFT Minting
 ---
 
-Minting your real estate asset as an NFT on the ReitCircles portal is the next step after [onboarding your assets](onboarding-assets.md), and the documents submitted have been verified.
+Minting your real estate asset as an NFT on the [ReitCircles Portal](https://devportal.reitcircles.com) is the next step after [onboarding your assets](onboarding-assets.md), and the documents submitted have been verified.
 
-The NFT minting process involves converting realestate assets into NFTs and listing them on the ReitCircles marketplace. To mint your assets as NFTs on the portal, you need to ensure that all your documents have been submitted for review and have been reviewed.
+The NFT minting process involves converting real estate assets into NFTs and listing them on the [ReitCircles marketplace](https://reitcircles.com/marketplace/). To mint your assets as NFTs on the portal, you need to ensure that all your documents have been submitted for review and have been reviewed.
 
-### Verification Approval
+To mint your assets as NFTs, follow this process:
+
+### Confirm Asset Documents Review
 
 Once your asset documents are reviewed and approved by the verification team, you will receive a notification on the portal.
 
-Use the correct address for the asset, the portal uses Google Map to verify.
+Log in to the ReitCircles portal, in the dashboard, click on the Projects tab, and then click on the Asset you created.
+To check if you asset documents have been reviewed, click on **Documents** tab.
 
-![document in review](/img/mint/doc_revv.png)
+You will see a check mark ✅ with _Review has been completed for this asset_ as shown in the image below.
 
-### Initiate Minting
+![document reviewed](/img/nft/sure_docs.png)
 
-Navigate to the asset details page from your dashboard. Click on the **Mint NFT** button to start the minting process.
 
-![mint asset](/img/mint/nft_mint.png)
+> _[Learn how to onboard an Asset on the portal](./onboarding-assets.md)_
 
-### Confirm Transaction
 
-A confirmation window will appear. Review the details and confirm the transaction. You may need to enter your wallet password to authorize the minting.
+### Initiate NFT Minting
 
-### Minting in Progress
+While in the Assets page, click on **Minting**, next to the Documents tab. You can view the Asset documents that were reviewed and uploaded to the Arweave blockchain by clicking on the _Arweave assets verification_ arrow.
 
-The minting process will take a few moments. You will see a progress bar indicating the status of the minting.
+![click mint](/img/nft/doc_on_arweave_block.png)
 
-### Minting Complete
 
-Once the minting is complete, you will receive a notification, and your asset will be displayed as an NFT in your wallet and on the ReitCircles portal.
+Click on **Mint Token** to begin the minting process. 
 
-Congratulations! Your real estate asset is now securely stored as an NFT on the blockchain.
+![click mint](/img/nft/view_doc_arweave.png)
+
+
+### Pay and Confirm Transaction
+
+To proceed, you will be required to pay 784 ₳ (ADA tokens). When you click on **Process**, you will be redirected to your  [Nami](https://www.namiwallet.io) or [Eternl](https://eternl.io) wallet, depending on which you registered with and connected to your browser.
+
+![pay](/img/nft/pay_mint.png)
+
+In the wallet's confirmation window, review the details, enter your wallet password and sign the transaction to authorize the minting. This might take some seconds to process.
+
+### View the Asset NFT Minted
+
+Once the minting is complete, you can view your asset's NFT or minting details by clicking on either of the links as shown below.
+
+![click mint](/img/nft/nft_minted.png)
+
+The asset will also be displayed as an NFT in your Eternl/Nami wallet. In Eternl, it will be listed on the Transactions tab like so:
+
+![click mint](/img/nft/eternl_nft.png)
+
+
+**Congratulations! Your real estate asset is now securely stored as an NFT on the blockchain.**
+
+--------------
+
+## Accessing the NFT Data
+
+After minting the asset as an NFT, you can access additional information about the asseet which is stored on the [Arwaeve blockchain](https://www.arweave.org/).
+
+- Once the minting process is complete, the NFT data will be available on [Cardanoscan](https://cardanoscan.io/). Note that it might take a few minutes for the data to appear after minting.
+
+![cardano scan](/img/nft/nft_data.png)
+
+- The asset ownership details are also attached to the NFT. As [mentioned above](#view-the-asset-nft-minted), you can view the NFT and other minting details. This ensures transparency and verifiability of asset ownership on the blockchain.

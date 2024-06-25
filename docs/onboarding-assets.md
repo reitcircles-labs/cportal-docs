@@ -46,6 +46,8 @@ You will then see a home icon with a notification. Click on it, which will then 
 
 To onboard an asset, you will need to complete three steps: **Introduction**, **Offer Creation**, **Documents**, and **Minting**. Each of these steps will require you to add information about the asset such as the asset name, type of asset, location, upload market details (pictures and other information) of the asset, and then submit the documents for review.
 
+> **Ensure you use the correct address for the asset, the portal uses Google Map to verify it, and will also be confirmed by the reviewing team.**
+
 ![Eternl Wallet Window](/img/asset/info_asset.png)
 
 ### Step 7

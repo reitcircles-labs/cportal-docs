@@ -28,10 +28,12 @@ To chat with other users on the portal, click on the **New Channel** button at t
 
 ![chat sup](/img/chat/new_chat.png)
 
+The stake address is a unique identifier for a user and is provided by the NAMI/Eternl wallet. To chat with another user on the chat channel, they need to share their stake address.
+
 **Note:**
 > You can also access the chat by clicking on the dropdown menu in the My Profile section and then selecting Inbox Messages.
 
-![chat sup](/img/chat/other_chat.png)
+![chat users](/img/chat/other_chat.png)
 
 
 ### Receive and Respond to Messages
