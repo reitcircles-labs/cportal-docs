@@ -7,6 +7,9 @@ title: ReitCircles API Reference
 
 - **API Version**: 1.00
 
+>**Note:**
+These APIs are currently for development purposes and not for production as they are currently being improved upon. However, you can try them out locally on [localhost:3000](localhost:3000)
+
 ### Answers API
 The Answers API provides endpoints for managing and retrieving answers to questions.
 

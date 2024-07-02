@@ -86,7 +86,7 @@ const config = {
             position: 'left',
           },
       
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'University', position: 'left'},
           {
             href: 'https://github.com/reitcircles-labs',
             label: 'GitHub',
@@ -132,7 +132,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'University',
                 to: '/blog',
               },
               {

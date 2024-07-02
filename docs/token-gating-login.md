@@ -57,6 +57,11 @@ Now you can log in to the **ReitCircles** portal and begin your KYC process, and
 
 ![Transaction Successful](/img/login/login-portal.png)
 
+Click on the **You did not complete KYC yet**  alert above to start the KYC process. You will need your Passport, National ID, or Driving license, and you must be 18 years of age or older.
+
+![KYC](/img/login/kyc.png)
+
+
 --------
 
 ### How to Get Test Tokens for the ReitCircles Portal

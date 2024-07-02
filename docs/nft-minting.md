@@ -42,7 +42,9 @@ To proceed, you will be required to pay 784 ₳ (ADA tokens). When you click on 
 
 ![pay](/img/nft/pay_mint.png)
 
-In the wallet's confirmation window, review the details, enter your wallet password and sign the transaction to authorize the minting. This might take some seconds to process.
+In the wallet's confirmation window as shown below, review the details, enter your wallet password and sign the transaction to authorize the minting. This might take some seconds to process.
+
+![window](/img/nft/sign_etern_nft.png)
 
 ### View the Asset NFT Minted
 
@@ -57,11 +59,15 @@ The asset will also be displayed as an NFT in your Eternl/Nami wallet. In Eternl
 
 **Congratulations! Your real estate asset is now securely stored as an NFT on the blockchain.**
 
+You can view the asset NFT by clicking on **NFTs Owner** in the My Profile dropdown on the left side of the dashboard. Alternatively, you can navigate to your project, then assets, and click on **View NFT**.
+
+![click mint](/img/rev/see-nft.png)
+
 --------------
 
 ## Accessing the NFT Data
 
-After minting the asset as an NFT, you can access additional information about the asseet which is stored on the [Arwaeve blockchain](https://www.arweave.org/).
+After minting the asset as an NFT, you can access additional information about the asseet which is stored on the [Arweave blockchain](https://www.arweave.org/).
 
 - Once the minting process is complete, the NFT data will be available on [Cardanoscan](https://cardanoscan.io/). Note that it might take a few minutes for the data to appear after minting.
 
