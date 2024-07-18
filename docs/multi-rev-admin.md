@@ -19,6 +19,8 @@ Sign in to the ReitCircles portal, and navigate to the **Admin Section** Then cl
 
 Enter the Asset ID of the document you need to review. You will then see the documents that need to be reviewed.
 
+![review](/img/rev/main-revvv.png)
+
 There is an **Asset ID** and a **Review Index**.
 
 The Review Index tracks the log system, keeping a record of previously submitted documents by the user for review. This is particularly useful when an asset has been submitted for review multiple times.

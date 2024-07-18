@@ -10,6 +10,8 @@ This is a step-by-step guide on how to login and use the [ReitCircles](https://r
 
 Visit [ReitCircles Portal](https://devportal.reitcircles.com/#/login), agree to the terms and privacy policy, then use either your [Nami](https://www.namiwallet.io) or [Eternl](https://eternl.io) wallet to register.
 
+> Recommended browsers to use for the portal are [Brave](https://brave.com/), [Chrome](https://www.google.com/chrome/) or [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch=1)
+
 ![ReitCircles Portal](/img/login/portal-begin.png)
 
 ---
