@@ -55,14 +55,21 @@ When the transaction is successful and your NFT token needed to access the porta
 
 --------
 
+### Email and KYC verification
+
 Now you can log in to the **ReitCircles** portal and begin your KYC process, and then add a project. You will receive a role token in your wallet.
 
-![Transaction Successful](/img/login/login-portal.png)
+Email verification is an important step in the KYC process. After you enter your email address, you will receive an email from ReitCircles like the one shown below:
 
-Click on the **You did not complete KYC yet**  alert above to start the KYC process. You will need your Passport, National ID, or Driving license, and you must be 18 years of age or older.
+![Email](/img/rev/email.png)
 
-![KYC](/img/login/kyc.png)
+Click on the link to verify your email. If successful, you will be redirected to the following page:
 
+![Email verification](/img/rev/email-verify.png)
+
+After verifying your email, next step of the KYC process is to verify your Identity. You will need a Passport, National ID, or Driving License, and you must be 18 years of age or older.
+
+![KYC start](/img/rev/kyc-new.png)
 
 --------
 
