@@ -25,6 +25,8 @@ There is an **Asset ID** and a **Review Index**.
 
 The Review Index tracks the log system, keeping a record of previously submitted documents by the user for review. This is particularly useful when an asset has been submitted for review multiple times.
 
+![rev](/img/rev/ui-rev.png)
+
 ### Review Documents
 
 Thoroughly review each document, set the status to **Accepted**, and add any relevant comments.
