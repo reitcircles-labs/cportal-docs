@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: Multiple-Review System for Reviewers
+title: Admin Multiple-Review System
 ---
 
 The Multiple-Review Oracle System ensures transparency and verifiability for each real estate asset uploaded to the ReitCircles portal. This system requires that asset documents be reviewed and confirmed by two reviewers before proceeding to the NFT minting process.
@@ -29,8 +29,6 @@ The Review Index tracks the log system, keeping a record of previously submitted
 
 ### Review Documents
 
-Thoroughly review each document, set the status to **Accepted**, and add any relevant comments.
-
 > **Note:** Both reviews are required for the asset to be approved. If only one reviewer completes the review, the asset cannot proceed to the NFT minting process.
 
 The image below shows an asset's document that has been reviewed by one reviewer. Therefore, the asset cannot yet be minted because the second reviewer has not completed the review. The purpose of the multiple review system is to ensure authenticity by having two reviewers verify the documents.
@@ -38,13 +36,10 @@ The image below shows an asset's document that has been reviewed by one reviewer
 
 ![review](/img/rev/rev-one.png)
 
-### Complete the Review
-
-After reviewing all documents, enter the asset's address, sign with your wallet and submit the review.
+> After reviewing all documents, enter the asset's address, sign with your wallet and submit the review.
 
 ### Notification and Minting
 
 Once both reviewers have completed their reviews and confirmed the documents, the user is notified on the portal. The asset can now proceed to the NFT minting process, accessible via the mint tab where a **Mint** button will appear.
 
 ---
-
