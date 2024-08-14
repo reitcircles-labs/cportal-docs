@@ -1,28 +1,16 @@
-import clsx from 'clsx';
+import React from 'react';
+import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={styles.heroBanner}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
       </div>
     </header>
   );
@@ -33,10 +21,18 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="ReitCircles Documentation - Learn how to use the Portal">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <div className={styles.mainContent}>
+          <p>
+            Welcome to the ReitCircles documentation. This guide will help you navigate the ReitCircles platform, 
+            from logging in and verifying your identity to managing your profile and using the various APIs.
+          </p>
+          <p>
+            To get started with the docs, <Link to="/docs/token-gating-login">click here</Link> to access the User Guides.
+          </p>
+        </div>
       </main>
     </Layout>
   );
