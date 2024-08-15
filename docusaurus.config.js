@@ -51,6 +51,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+
+          blogTitle: 'University',
           editUrl:
             'https://github.com/reitcircles-labs/cportal-docs',
         },
