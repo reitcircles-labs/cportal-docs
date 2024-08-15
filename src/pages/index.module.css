@@ -1,23 +1,15 @@
 .heroBanner {
   padding: 4rem 0 2rem;
   text-align: center;
-  background-color: #242526;
-  color: #ffffff;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
 }
-
-.heroSubtitle {
-  font-size: 1.2rem;
-  font-weight: 300;
-  color: #3498db;
-  margin-top: 1rem;
-}
-
 
 .mainContent {
   padding: 0 0 4rem;
   width: 100%;
-  background-color: #242526;
-  color: #ffffff;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
 }
 
 .mainContent p {
@@ -26,11 +18,18 @@
 }
 
 .mainContent a {
-  color: #3498db;
+  color: var(--ifm-link-color);
   text-decoration: none;
   font-weight: bold;
 }
 
 .mainContent a:hover {
   text-decoration: underline;
+}
+
+.heroSubtitle {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: var(--ifm-color-primary);
+  margin-top: 1rem;
 }

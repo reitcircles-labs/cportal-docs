@@ -1,33 +1,24 @@
 ---
-sidebar_position: 7
-title: Admin Multiple-Review System
+sidebar_position: 8
+title: Multiple-Review System Admin Overview
 ---
 
 The Multiple-Review Oracle System ensures transparency and verifiability for each real estate asset uploaded to the ReitCircles portal. This system requires that asset documents be reviewed and confirmed by two reviewers before proceeding to the NFT minting process.
 
-This is the review process for Admins.
-
-Make sure to have the review role assigned before using the review system. Then, click on Asset Audit Overview and enter the asset ID of the document to be reviewed. The system will automatically assign an asset ID to a reviewer, which you will receive. Reviewers are sent asset IDs when the documents are uploaded.
+Reviewers need to have the review role assigned before using the review system. The system will automatically assign an asset ID to a reviewer,  when the documents are uploaded and submitted for review by users.
 
 ### Access the Review Section
 
-Sign in to the ReitCircles portal, and navigate to the **Admin Section** Then click on the **Review** button in the left menu to access the review section.
+Sign in to the ReitCircles portal, and navigate to the **Admin Portal** section, then click on the **Asset Audit Overview** in the left menu to access the review section.
 
 ![review](/img/rev/review.png)
-
-### Enter Asset ID
-
-Enter the Asset ID of the document you need to review. You will then see the documents that need to be reviewed.
-
-![review](/img/rev/main-revvv.png)
 
 There is an **Asset ID** and a **Review Index**.
 
 The Review Index tracks the log system, keeping a record of previously submitted documents by the user for review. This is particularly useful when an asset has been submitted for review multiple times.
 
-![rev](/img/rev/ui-rev.png)
 
-### Review Documents
+### Reviewing Documents
 
 > **Note:** Both reviews are required for the asset to be approved. If only one reviewer completes the review, the asset cannot proceed to the NFT minting process.
 
@@ -35,8 +26,6 @@ The image below shows an asset's document that has been reviewed by one reviewer
 
 
 ![review](/img/rev/rev-one.png)
-
-> After reviewing all documents, enter the asset's address, sign with your wallet and submit the review.
 
 ### Notification and Minting
 
