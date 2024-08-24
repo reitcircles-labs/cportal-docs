@@ -25,15 +25,15 @@ You can then click on each document to begin reviewing.
 
 3. To begin reviewing click on the Review button of the first asset document. Then you can view the document by clicking on the eye 👁 icon, if confirmed to be correct or not, change the status by clicking on the dropdown icon next to _pending_ to either **approved** or **rejected**. Add a comment about the document and click on submit.
 
-![review](/img/multi/step3.png)
+![review](/img/rev/new-rev-blur-edit.png)
 
 After reviewing the first document, you can see that the status changes and then you proceed to review other documents.
 
 ![review](/img/multi/step4.png)
 
-4. When all documents have been reviewed, then you will enter the address details of the asset in the **More Information** section, and any other comment you have in the **Review comments** and click on the **Submit** button.
+4. When all documents have been reviewed, then you will enter the **address details** of the asset in the **More Information** section, and any other comment you have in the **Review comments** and click on the **Submit** button.
 
-![review](/img/multi/step5.png)
+![review](/img/multi/step5-new.png)
 
 5. When you click on the Submit window, the Eternl window or Nami if that'ss what you registered on the portal with pops up for you to sign the review process with your password. Then enter your password and click on **Sign** to proceed.
 
